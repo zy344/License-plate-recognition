@@ -1,0 +1,6 @@
+path: ''
+train: shujuji/图库  # train images (relative to 'path') 128 images
+val: shujuji/图库  # val images (relative to 'path') 128 images
+test:  # test images (optional)
+names:
+  0: license
